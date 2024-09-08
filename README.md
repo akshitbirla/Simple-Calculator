@@ -8,7 +8,7 @@ A simple calculator built using HTML, CSS, and JavaScript. This calculator perfo
 - Simple and intuitive user interface.
 - Responsive design that works on both desktop and mobile devices.
 
-** Technologies Used**
+**Technologies Used**
 
 - **HTML**: Structure of the calculator.
 - **CSS**: Styling and layout of the calculator.
